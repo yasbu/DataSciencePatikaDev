@@ -1,4 +1,4 @@
-#VERİ BİLİMİ 101 PROJESİ
+## VERİ BİLİMİ 101 PROJESİ
 
 Bu projede futbolcuların maaş tahmini yapılmıştır.
 
